@@ -1,0 +1,18 @@
+{
+  "id": 1984,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "goku",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
